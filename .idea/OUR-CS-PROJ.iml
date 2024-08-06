@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     /* Now You can edit the code */
+    /* The colloborater change*/
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
